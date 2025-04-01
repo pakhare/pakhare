@@ -1,4 +1,10 @@
-## Hi there 👋
+## 👋 Hi I'm Prasad Khare, a Computer Science undergraduate and a software geek.
+
+- 🔭 I’m currently working on: Contributing to open-source
+- 🌱 I’m currently learning: Python, Rust, System Optimization, Low-Level Memory Management
+- 📫 How to reach me: prasadkhare261@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Still optimizing my own sleep schedule like a memory allocator! 😆
 
 <!--
 **pakhare/pakhare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
